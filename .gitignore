@@ -1,0 +1,25 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Course outputs
+course-materials/outputs/*
+!course-materials/outputs/.gitkeep
+
+# CCPM local settings
+ccpm/settings.local.json
