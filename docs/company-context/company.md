@@ -117,7 +117,7 @@
 
 Это краткий обзор. Полная информация о компании доступна в:
 
-**📄 [Полный файл COMPANY.md](../../course-materials/company-context/COMPANY.md)**
+**📄 [Полный файл COMPANY.md](https://github.com/Sergei-thinker/claude-code-course-ru/blob/main/course-materials/company-context/COMPANY.md)**
 
 Включает:
 - Детальную структуру команды

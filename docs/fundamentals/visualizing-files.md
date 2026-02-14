@@ -29,8 +29,6 @@
 
 **Лучше всего для:** Пользователей Claude Code, которые хотят максимально гладкий опыт
 
-![Nimbalyst - Визуальное рабочее пространство для Claude Code](/images/nimbalyst-hero.webp)
-
 [Nimbalyst](https://nimbalyst.com/for-product-managers?ref=carlvellotti&utm_source=carlvellotti&utm_medium=ccforpms&utm_campaign=partner) — это бесплатная оболочка для Claude Code со встроенными функциями:
 - **WYSIWYG markdown-редактирование** - Видите форматированный текст, а не сырой markdown-синтаксис
 - **Diff файлов** - Видите точно, что изменил Claude при редактировании файлов

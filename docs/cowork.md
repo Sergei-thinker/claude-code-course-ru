@@ -10,7 +10,7 @@
 
 ### Начните за 3 шага
 
-1. **Загрузите курс** → [Download Cowork Complete Guide](/cowork-complete-guide.zip)
+1. **Загрузите курс** → [Клонировать репозиторий курса](https://github.com/Sergei-thinker/claude-code-course-ru)
 2. **Откройте папку в Cowork** → Нажмите "Cowork" в Claude Desktop, выберите папку
 3. **Начните обучение** → Скажите Claude: *"Read START-HERE.md and start lesson 1"*
 

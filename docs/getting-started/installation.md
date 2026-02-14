@@ -164,7 +164,7 @@ sudo curl -fsSL https://claude.ai/install.sh | bash
 
 ## Ресурсы
 
-- [Официальная документация](https://docs.claude.com/en/docs/claude-code)
+- [Официальная документация](https://docs.anthropic.com/en/docs/claude-code/overview)
 - [GitHub Issues](https://github.com/anthropics/claude-code/issues)
 - Форумы сообщества Claude Code
 
