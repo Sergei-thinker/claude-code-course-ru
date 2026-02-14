@@ -84,3 +84,39 @@
 - #49 — Создать GitHub Release
 - #50 — Проверка сайта
 - #51 — Проверка интерактива
+
+---
+
+### 2026-02-14 - Аудит сайта и исправление битых ссылок
+
+#### Что сделано
+- Полный аудит всех 33 страниц docs-сайта на битые ссылки (параллельно 3 агентами)
+- Проверка живого сайта https://sergei-thinker.github.io/claude-code-course-ru/
+- Проверка консистентности course-materials (100% — все файлы, имена, пути в порядке)
+- Исправлено 10 битых ссылок в 7 файлах:
+  - Удалены 3 ссылки на несуществующие изображения (`/images/better-graphic.png`, `/images/folder-location.png`, `/images/nimbalyst-hero.webp`)
+  - Заменены 4 ссылки на несуществующий GitHub Release (`complete-course.zip`) на `git clone`
+  - Исправлена ссылка на `../../course-materials/COMPANY.md` (не работает в docsify) — теперь ведёт на GitHub
+  - Заменена битая ссылка на `cowork-complete-guide.zip` на клонирование репозитория
+  - Обновлён URL документации Claude Code (`docs.claude.com` → `docs.anthropic.com`)
+- Переписана страница start-and-clone.md: инструкции скачивания заменены на `git clone`
+
+#### Изменённые файлы
+- `docs/README.md` — убрана битая картинка, исправлена ссылка на скачивание
+- `docs/fundamentals/welcome.md` — убрана битая картинка
+- `docs/fundamentals/visualizing-files.md` — убрана битая картинка Nimbalyst
+- `docs/cowork.md` — исправлена ссылка на скачивание курса
+- `docs/company-context/company.md` — исправлена ссылка на COMPANY.md
+- `docs/getting-started/start-and-clone.md` — переписаны инструкции на git clone
+- `docs/getting-started/installation.md` — обновлён URL документации
+
+#### Тестирование
+- [x] Все ссылки на `/images/` удалены (grep подтвердил 0 совпадений)
+- [x] Все ссылки на `releases/` удалены (grep подтвердил 0 совпадений)
+- [x] Все ссылки на `complete-course.zip` удалены (grep подтвердил 0 совпадений)
+- [x] Все 33 страницы sidebar ведут на существующие файлы
+- [x] Git push successful
+- [x] GitHub Pages автоматический деплой запущен
+
+#### Статус
+✅ Завершено
