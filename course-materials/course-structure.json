@@ -1,0 +1,233 @@
+{
+  "version": "2.0.0",
+  "lastUpdated": "2026-02-13",
+  "language": "ru",
+  "levels": [
+    {
+      "id": "1",
+      "name": "Основы",
+      "description": "Базовые механики Claude Code",
+      "modules": [
+        {
+          "id": "1.1",
+          "title": "Добро пожаловать",
+          "slug": "welcome",
+          "path": "lesson-modules/1-fundamentals/1-1-welcome/CLAUDE.md",
+          "command": "start-1-1",
+          "description": "Введение в Claude Code",
+          "estimatedMinutes": 10
+        },
+        {
+          "id": "1.2",
+          "title": "Визуализация файлов",
+          "slug": "visualizing-files",
+          "path": "lesson-modules/1-fundamentals/1-2-visualizing-files/CLAUDE.md",
+          "command": "start-1-2",
+          "description": "Настройка визуального рабочего пространства",
+          "estimatedMinutes": 15
+        },
+        {
+          "id": "1.3",
+          "title": "Первые задачи",
+          "slug": "first-tasks",
+          "path": "lesson-modules/1-fundamentals/1-3-first-tasks/CLAUDE.md",
+          "command": "start-1-3",
+          "description": "Чтение файлов, трансформация контента и стили вывода",
+          "estimatedMinutes": 25
+        },
+        {
+          "id": "1.4",
+          "title": "Агенты",
+          "slug": "agents",
+          "path": "lesson-modules/1-fundamentals/1-4-agents/CLAUDE.md",
+          "command": "start-1-4",
+          "description": "Клонирование Claude для параллельной работы",
+          "estimatedMinutes": 20
+        },
+        {
+          "id": "1.5",
+          "title": "Пользовательские субагенты",
+          "slug": "custom-subagents",
+          "path": "lesson-modules/1-fundamentals/1-5-custom-sub-agents/CLAUDE.md",
+          "command": "start-1-5",
+          "description": "Создание специализированных агентов с пользовательскими персонами",
+          "estimatedMinutes": 15
+        },
+        {
+          "id": "1.6",
+          "title": "Память проекта",
+          "slug": "project-memory",
+          "path": "lesson-modules/1-fundamentals/1-6-project-memory/CLAUDE.md",
+          "command": "start-1-6",
+          "description": "Использование CLAUDE.md для контекста проекта",
+          "estimatedMinutes": 15
+        },
+        {
+          "id": "1.7",
+          "title": "Навигация в Claude Code",
+          "slug": "claude-code-navigation",
+          "path": "lesson-modules/1-fundamentals/1-7-navigation/CLAUDE.md",
+          "command": "start-1-7",
+          "description": "Навыки навигации и горячие клавиши",
+          "estimatedMinutes": 15
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "PM-процессы",
+      "description": "Реальные задачи продакт-менеджмента",
+      "modules": [
+        {
+          "id": "2.1",
+          "title": "Написание PRD",
+          "slug": "write-prd",
+          "path": "lesson-modules/2-advanced-pm-work/2-1-write-prd/CLAUDE.md",
+          "command": "start-2-1",
+          "description": "Создание документов требований к продукту",
+          "estimatedMinutes": 30
+        },
+        {
+          "id": "2.2",
+          "title": "Анализ данных",
+          "slug": "analyze-data",
+          "path": "lesson-modules/2-advanced-pm-work/2-2-analyze-data/CLAUDE.md",
+          "command": "start-2-2",
+          "description": "Работа с данными и аналитикой",
+          "estimatedMinutes": 25
+        },
+        {
+          "id": "2.3",
+          "title": "Продуктовая стратегия",
+          "slug": "product-strategy",
+          "path": "lesson-modules/2-advanced-pm-work/2-3-product-strategy/CLAUDE.md",
+          "command": "start-2-3",
+          "description": "Стратегическое планирование и приоритизация",
+          "estimatedMinutes": 30
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Nano Banana",
+      "description": "Генерация изображений с помощью AI",
+      "modules": [
+        {
+          "id": "3.1.1",
+          "title": "Добро пожаловать и первая генерация",
+          "slug": "welcome-first-generation",
+          "path": "lesson-modules/3-nano-banana/3-1-1-welcome-nano-banana/CLAUDE.md",
+          "command": "start-3-1-1",
+          "description": "Настройка API-ключа и генерация первого изображения",
+          "estimatedMinutes": 10
+        },
+        {
+          "id": "3.1.2",
+          "title": "Понимание основ",
+          "slug": "understanding-basics",
+          "path": "lesson-modules/3-nano-banana/3-1-2-basics/CLAUDE.md",
+          "command": "start-3-1-2",
+          "description": "Параметры, пропорции, разрешение и итерация",
+          "estimatedMinutes": 15
+        },
+        {
+          "id": "3.1.3",
+          "title": "Консистентность и стиль",
+          "slug": "consistency-style",
+          "path": "lesson-modules/3-nano-banana/3-1-3-style/CLAUDE.md",
+          "command": "start-3-1-3",
+          "description": "Золотые правила промптинга, референсные изображения и варианты",
+          "estimatedMinutes": 20
+        },
+        {
+          "id": "3.1.4",
+          "title": "Создание базы стилей",
+          "slug": "style-database",
+          "path": "lesson-modules/3-nano-banana/3-1-4-style-database/CLAUDE.md",
+          "command": "start-3-1-4",
+          "description": "Создание библиотеки стилей и извлечение стилей из изображений",
+          "estimatedMinutes": 20
+        },
+        {
+          "id": "3.2.1",
+          "title": "Пользователи и визуалы продукта",
+          "slug": "users-product-visuals",
+          "path": "lesson-modules/3-nano-banana/3-2-1-users-product/CLAUDE.md",
+          "command": "start-3-2-1",
+          "description": "Создание персон, карт путешествий, вайрфреймов и лайфстайл-фото",
+          "estimatedMinutes": 25
+        },
+        {
+          "id": "3.2.2",
+          "title": "Стратегия и архитектура",
+          "slug": "strategy-architecture-visuals",
+          "path": "lesson-modules/3-nano-banana/3-2-2-strategy-architecture/CLAUDE.md",
+          "command": "start-3-2-2",
+          "description": "Диаграммы архитектуры, матрицы приоритизации и дорожные карты",
+          "estimatedMinutes": 20
+        },
+        {
+          "id": "3.2.3",
+          "title": "Маркетинг и запуск",
+          "slug": "marketing-launch-assets",
+          "path": "lesson-modules/3-nano-banana/3-2-3-marketing-launch/CLAUDE.md",
+          "command": "start-3-2-3",
+          "description": "Графика для App Store, рекламные баннеры и визуалы для запуска",
+          "estimatedMinutes": 20
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Vibe Coding",
+      "description": "Создание веб-приложения с нуля и его развёртывание",
+      "modules": [
+        {
+          "id": "4.1",
+          "title": "Настройка",
+          "slug": "setup",
+          "path": "lesson-modules/4-vibe-coding/4-1-setup/CLAUDE.md",
+          "command": "start-4-1",
+          "description": "Мышление vibe coding и настройка проекта",
+          "estimatedMinutes": 10
+        },
+        {
+          "id": "4.2",
+          "title": "Планирование",
+          "slug": "plan",
+          "path": "lesson-modules/4-vibe-coding/4-2-plan/CLAUDE.md",
+          "command": "start-4-2",
+          "description": "Процесс интервью для определения требований",
+          "estimatedMinutes": 25
+        },
+        {
+          "id": "4.3",
+          "title": "Сборка и итерация",
+          "slug": "build-iterate",
+          "path": "lesson-modules/4-vibe-coding/4-3-build-iterate/CLAUDE.md",
+          "command": "start-4-3",
+          "description": "Скаффолдинг, сборка и доработка со скриншотами",
+          "estimatedMinutes": 40
+        },
+        {
+          "id": "4.4",
+          "title": "GitHub",
+          "slug": "github",
+          "path": "lesson-modules/4-vibe-coding/4-4-github/CLAUDE.md",
+          "command": "start-4-4",
+          "description": "Контроль версий и резервное копирование",
+          "estimatedMinutes": 15
+        },
+        {
+          "id": "4.5",
+          "title": "Запуск",
+          "slug": "go-live",
+          "path": "lesson-modules/4-vibe-coding/4-5-go-live/CLAUDE.md",
+          "command": "start-4-5",
+          "description": "Развёртывание на Vercel с реальным URL",
+          "estimatedMinutes": 15
+        }
+      ]
+    }
+  ]
+}

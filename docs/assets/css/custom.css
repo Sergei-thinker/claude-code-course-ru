@@ -1,0 +1,79 @@
+/* Custom styles for Russian Claude Code PM Course */
+
+:root {
+  --theme-color: #7c3aed;
+  --base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --base-font-size: 16px;
+  --base-line-height: 1.7;
+  --sidebar-width: 280px;
+  --sidebar-nav-link-color--active: #7c3aed;
+}
+
+/* Better Cyrillic typography */
+body {
+  font-family: var(--base-font-family);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Code blocks */
+.markdown-section code {
+  font-family: "JetBrains Mono", "Fira Code", "SF Mono", Consolas, monospace;
+  font-size: 0.9em;
+}
+
+.markdown-section pre > code {
+  font-size: 0.85em;
+  line-height: 1.6;
+}
+
+/* Tables */
+.markdown-section table {
+  display: table;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.markdown-section th,
+.markdown-section td {
+  padding: 8px 12px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.markdown-section th {
+  font-weight: 600;
+  background: rgba(255, 255, 255, 0.05);
+}
+
+/* Sidebar */
+.sidebar-nav li a {
+  font-size: 14px;
+}
+
+.sidebar-nav li.active > a {
+  font-weight: 600;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  :root {
+    --sidebar-width: 240px;
+  }
+
+  .markdown-section {
+    padding: 16px;
+  }
+}
+
+/* Blockquotes for tips */
+.markdown-section blockquote {
+  border-left: 4px solid var(--theme-color);
+  padding: 12px 20px;
+  margin: 16px 0;
+  background: rgba(124, 58, 237, 0.05);
+}
+
+/* Task lists */
+.markdown-section ul li input[type="checkbox"] {
+  margin-right: 8px;
+}

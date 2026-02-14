@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Курс Claude Code для Продакт-Менеджеров</title>
+  <meta name="description" content="Бесплатный интерактивный курс Claude Code для PM">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.min.css">
+  <link rel="stylesheet" href="assets/css/custom.css">
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: 'Claude Code для PM',
+      repo: 'Sergei-thinker/claude-code-course-ru',
+      loadSidebar: true,
+      subMaxLevel: 3,
+      auto2top: true,
+      search: {
+        placeholder: 'Поиск...',
+        noData: 'Ничего не найдено',
+        paths: 'auto',
+        depth: 3
+      },
+      pagination: {
+        previousText: 'Назад',
+        nextText: 'Далее',
+        crossChapter: true
+      },
+      copyCode: {
+        buttonText: 'Копировать',
+        errorText: 'Ошибка',
+        successText: 'Скопировано!'
+      },
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
+      },
+      notFoundPage: '_404.md'
+    }
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-python.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-json.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-markdown.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+</body>
+</html>
