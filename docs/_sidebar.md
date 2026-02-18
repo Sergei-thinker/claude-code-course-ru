@@ -39,3 +39,6 @@
   - [Продукт TaskFlow](company-context/product.md)
   - [Персоны](company-context/personas.md)
   - [Конкуренты](company-context/competitive.md)
+
+- **Ссылки**
+  - [В эпоху AI](https://t.me/create_products)

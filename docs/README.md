@@ -88,13 +88,7 @@ Claude Code - это не чат-бот. Это AI, который работа�
 
 ## О курсе
 
-Оригинальный курс создан [Carl Vellotti](https://www.linkedin.com/in/carlvellotti/).
-
-Русская адаптация создана [Sergei-thinker](https://github.com/Sergei-thinker).
-
-**Репозиторий оригинала:** [github.com/carlvellotti/claude-code-pm-course](https://github.com/carlvellotti/claude-code-pm-course)
-
-**Репозиторий русской версии:** [github.com/Sergei-thinker/claude-code-course-ru](https://github.com/Sergei-thinker/claude-code-course-ru)
+Следи за развитием эпохи AI, подписывайся на канал: [@create_products](https://t.me/create_products).
 
 ### Дисклеймер
 
