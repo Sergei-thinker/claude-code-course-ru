@@ -183,8 +183,4 @@ sudo curl -fsSL https://claude.ai/install.sh | bash
 
 **О курсе**
 
-Оригинал создан [Carl Vellotti](https://www.linkedin.com/in/carlvellotti/). Русская адаптация от [Sergei-thinker](https://github.com/Sergei-thinker).
-
-**Репозиторий оригинала:** [github.com/carlvellotti/claude-code-pm-course](https://github.com/carlvellotti/claude-code-pm-course)
-
-**Репозиторий русской версии:** [github.com/Sergei-thinker/claude-code-course-ru](https://github.com/Sergei-thinker/claude-code-course-ru)
+Следи за развитием эпохи AI, подписывайся на канал: [@create_products](https://t.me/create_products).

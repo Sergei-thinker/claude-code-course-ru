@@ -295,6 +295,4 @@ Golden hour освещение создаёт мягкие тени. Пригл�
 
 **О курсе**
 
-Создано [Carl Vellotti](https://www.linkedin.com/in/carlvellotti/). Посмотрите [The Full Stack PM](https://fullstackpm.com/subscribe?utm_source=ccforpms&utm_medium=course&utm_campaign=nano-banana-database) для большего PM builder контента.
-
-**Исходный репозиторий:** [github.com/carlvellotti/claude-code-pm-course](https://github.com/carlvellotti/claude-code-pm-course)
+Следи за развитием эпохи AI, подписывайся на канал: [@create_products](https://t.me/create_products).

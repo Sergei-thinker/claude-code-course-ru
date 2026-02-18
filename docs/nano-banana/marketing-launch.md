@@ -220,6 +220,4 @@ Claude Code обрабатывает всю техническую сложно�
 
 **О курсе**
 
-Создано [Carl Vellotti](https://www.linkedin.com/in/carlvellotti/). Nano Banana - часть курса Claude Code для Product Managers.
-
-**Исходный репозиторий:** [github.com/carlvellotti/claude-code-pm-course](https://github.com/carlvellotti/claude-code-pm-course)
+Следи за развитием эпохи AI, подписывайся на канал: [@create_products](https://t.me/create_products).

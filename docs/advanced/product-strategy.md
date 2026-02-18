@@ -344,6 +344,4 @@ Q2 2026:
 
 **О курсе**
 
-Создано [Carl Vellotti](https://www.linkedin.com/in/carlvellotti/). Если у вас есть обратная связь об этом модуле или курсе в целом, напишите мне! Я создаю рассылку и сообщество для PM билдеров, посмотрите [The Full Stack PM](https://fullstackpm.com/subscribe?utm_source=ccforpms&utm_medium=course&utm_campaign=product-strategy).
-
-**Исходный репозиторий:** [github.com/carlvellotti/claude-code-pm-course](https://github.com/carlvellotti/claude-code-pm-course)
+Следи за развитием эпохи AI, подписывайся на канал: [@create_products](https://t.me/create_products).
